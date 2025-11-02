@@ -20,7 +20,7 @@ ClaudeやChatGPTなどのAIアシスタントの協力を得て個人開発し�
 
 ##  必要なライブラリ
 
-Python 3.8以上で動作確認済み。
+Python 3.13.4で動作確認済み。
 
 ```bash
 pip install PyQt5 PyPDF2
@@ -35,7 +35,7 @@ pip install PyQt5 PyPDF2
 3. ターミナルまたはコマンドプロンプトで、スクリプトを実行：
 
 ```bash
-python main.py
+python PDFReader.py
 ```
 
 4. アプリが起動したら、PDFファイルをウィンドウ中央のエリアにドラッグ＆ドロップ  
@@ -47,8 +47,8 @@ python main.py
 ##  ファイル構成例
 
 ```
-pdf-translator/
-├── main.py          # メインアプリ
+PDF-Reader-Translator/
+├── PDFReader.py          # メインアプリ
 ├── README.md        # この説明ファイル
 ```
 
