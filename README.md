@@ -72,9 +72,8 @@ PDFリーディングと翻訳作業の効率化を目的に制作しました�
 
 ---
 
-##  スクリーンショット（任意）
+##  スクリーンショット
 
-アプリの起動画面や翻訳結果表示の様子をここに追加できます。
 <img width="900" height="695" alt="image" src="https://github.com/user-attachments/assets/dea06085-bc1d-4100-b7be-7f2a2c6e60e5" />
 
 ---
